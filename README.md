@@ -1,0 +1,2 @@
+# RabbitMQ-ProgDist
+Olá, mundo!
